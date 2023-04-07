@@ -10,8 +10,17 @@ h2{
     font: 45px;
 }
 p{
-    font: 15px;
-    color: #999;
+    font: 20px;
+    color: #1f1919f9;
+}
+div{
+    width:350px;
+    border: 2px solid rgb(64, 179, 171);
+    padding: 15px;
+    background-color: beige;
+    color: rgb(255, 0, 8);
+    font-size: 1.5;
+    height: 200px;
 }
 .college{
     color:rgb(102, 0, 255);
@@ -21,6 +30,7 @@ nav {
     text-align: center;
     font-size: 0;
 }
+
 nav a{
     color:#fff;
     text-decoration: none;
@@ -32,4 +42,7 @@ nav a{
 }
 nav a:hover{
     background-color: #fa0;
+}
+a{
+    text-decoration: none;
 }
