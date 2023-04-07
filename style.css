@@ -1,0 +1,35 @@
+*{
+    margin :0;
+    padding: 0;
+}
+h1{
+    color: blue;
+    font: 50px;
+}
+h2{
+    font: 45px;
+}
+p{
+    font: 15px;
+    color: #999;
+}
+.college{
+    color:rgb(102, 0, 255);
+}
+nav {
+    background-color: #000;
+    text-align: center;
+    font-size: 0;
+}
+nav a{
+    color:#fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 20px;
+    font-size: 16px;
+    background-color: #000;
+    transition:  2s;
+}
+nav a:hover{
+    background-color: #fa0;
+}
